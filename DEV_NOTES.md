@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Pinned dependency versions for reproducibility
 - Cross-checked behaviour against spec
+
+## 2026-05-06
+- Documented config options
+- Added .editorconfig for consistent formatting
